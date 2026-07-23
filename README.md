@@ -38,30 +38,38 @@ Digital Academic Portal developed for Government Science College, Tejgaon, Dhaka
 - Portal access using Student ID and password
 
 
-# GitHub Repository Clone Guide
+## GitHub Repository Clone Guide
 
 Follow these steps and commands to clone a repository from GitHub to your local machine.
 
 ---
-# Clone Repository
+## Clone Repository
 
 Run the following command in your terminal to clone the **GSC_web** project:
 
-## bash
+```bash
 git clone [https://github.com/tahsin-bit/GSC_web.git](https://github.com/tahsin-bit/GSC_web.git)
+```
 
+### Move into the project directory
 
-# Move into the project directory
+```bash
 cd GSC_web
+```
 
-# Install required dependencies
+### Install required dependencies
+```bash
 npm install
+```
 
-# Run the development server
+### Run the development server
+```bash
 npm start
-# OR (if using Vite)
+```
+### OR (if using Vite)
+```bash
 npm run dev
-
+```
 
 
 
