@@ -1,4 +1,45 @@
-﻿# GSC Academic Portal — ওয়েবসাইটের কাজসমূহ
+﻿# GSC Academic Portal — Website Features & Modules
+
+Digital Academic Portal developed for Government Science College, Tejgaon, Dhaka.
+
+---
+
+## 🌐 Public Section
+
+- **Home Page** — Image slider, college statistics, department highlights, and admission eligibility checker tool
+- **Notice Board** — Academic notices, circulars, and latest announcements
+- **About Us** — History of the college, mission, vision, and notable achievements
+- **Administration** — Profiles and list of faculty members and administrative staff
+- **Departments** — Information on all academic departments including Physics, Chemistry, Biology, and ICT
+- **Academic Information** — Course curriculum and academic calendar
+- **Result Verification** — Exam result search using SSC/HSC roll number
+- **Photo Gallery** — Photos of college events, ceremonies, and activities
+- **Contact Page** — College address, map, and helpdesk messaging form
+
+---
+
+## 🎓 Student Portal (Login Required)
+
+- **Personal Dashboard** — CGPA, credit progress, semester information, and exam routine
+- **Assignment Calendar** — Weekly assignment tracker, deadlines, and submission manager
+- **Course Material** — Lecture notes, PDF resources, and chapter-wise study materials
+- **Notification Center** — Personalized academic updates and critical alerts
+- **Exam Schedule** — Subject-wise exam dates, timings, and hall details
+- **GSC AI Chatbot** — Gemini AI-powered academic Q&A assistant
+- **Global Search** — Instant searching across portal content in Bangla or English
+- **Bangla / English Switcher** — Bilingual support to use the complete website in either language
+
+---
+
+## 🔐 Authentication & Registration
+
+- New student registration with photo upload
+- Storage of SSC details, guardian information, and blood group
+- Portal access using Student ID and password
+
+
+
+# GSC Academic Portal — ওয়েবসাইটের কাজসমূহ
 
 সরকারি বিজ্ঞান কলেজ, তেজগাঁও, ঢাকার জন্য নির্মিত ডিজিটাল একাডেমিক পোর্টাল।
 
