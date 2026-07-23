@@ -38,6 +38,35 @@ Digital Academic Portal developed for Government Science College, Tejgaon, Dhaka
 - Portal access using Student ID and password
 
 
+# GitHub Repository Clone Guide
+
+Follow these steps and commands to clone a repository from GitHub to your local machine.
+
+---
+# Clone Repository
+
+Run the following command in your terminal to clone the **GSC_web** project:
+
+## bash
+git clone [https://github.com/tahsin-bit/GSC_web.git](https://github.com/tahsin-bit/GSC_web.git)
+
+
+# Move into the project directory
+cd GSC_web
+
+# Install required dependencies
+npm install
+
+# Run the development server
+npm start
+# OR (if using Vite)
+npm run dev
+
+
+
+
+
+
 
 # GSC Academic Portal — ওয়েবসাইটের কাজসমূহ
 
