@@ -1,0 +1,6 @@
+{
+  "name": "GSCTD Academic Portal",
+  "description": "A modern, responsive academic portal and digital dashboard for the German-Swiss Technical Training Center Dhaka (GSCTD), featuring interactive dashboards, announcement channels, assignment calendars, and student profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
